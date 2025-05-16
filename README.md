@@ -36,7 +36,7 @@ A simple and interactive weather dashboard application built with Django and Jav
 
 - Navigate to the project directory:
   ```bash
-  cd weather-dashboard
+  cd "Weather Dashboard"
   ```
 
 - Install the required dependencies:
